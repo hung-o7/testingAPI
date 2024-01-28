@@ -1,6 +1,6 @@
-function Test(){
+function test1(){
 var client_id = '0bcfe0e23dbe4f00bd2d338121bcbcd8';
-var redirect_uri = 'http://localhost:8888/callback';
+var redirect_uri = 'https://hung-o7.github.io/testingAPI/';
 
 var app = express();
 
